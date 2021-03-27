@@ -35,7 +35,7 @@
         <div class="container">
           <div class="row centered">
             <h1>BabySafety</h1>
-            <h2>is for any child</h2>
+            <h2 style="color: white;">is for any child</h2>
           </div>
           <!--/row -->
         </div>
@@ -78,7 +78,7 @@
             <div class="form-group">
               <input type="number" name="quantity" min="1" max="10000" class="form-control" id="contact-quantite" placeholder="la quantite" data-rule="number" data-msg="Please enter a valid quantity">
               <h1>
-              Prix unitaire = 370.00 dh
+              Prix unitaire = 370.00 dh  = 41 $ 
               </h1>
               <div class="validate"></div>
             </div>
@@ -115,7 +115,7 @@
     <div class="container">
       <div class="row centered">
         <div class="col-md-8 col-md-offset-2">
-          <h4>Welcome to Our website  <i class="glyphicon glyphicon-heart"></i></h4>
+          <h4>Welcome to BabySafety  <i class="glyphicon glyphicon-heart"></i></h4>
           <br/>
           <i class="glyphicon glyphicon-chevron-down"></i>
         </div>
@@ -138,7 +138,7 @@
 
         <div class="col-md-4">
           <h1 data-effect="slide-right">1</h1>
-          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+          <p>BebSafty est une solution rentable qui fournit de la chaleur à un bébé à température constante, une condition essentielle pour la survie. Il permet aux mamans de s’occuper de leurs bébés à la maison en toute tranquillité, et aux personnels de santé de transporter les nouveaux nés en toute sérénité. </p>
        
           <!-- <p><a class="btn btn-default btn-lg" role="button">MORE INFO</a> <a class="btn btn-action btn-lg" role="button">DOWNLOAD NOW</a></p>
      -->
@@ -173,7 +173,7 @@
       <div class="row mt">
         <div class="col-md-4 col-md-offset-2">
           <h1 data-effect="slide-left">2</h1>
-          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+          <p>La solution technique est sous forme d’un sac de couchage pour bébé, composée de deux tissus : intérieur et extérieur. En dessous, se trouve une poche ou se met une bouillote. le tissu intérieur pourra se mettre en contact avec tout type de peau sans aucun danger. Et pour celui de l’extérieur est en plastique imperméable , il est bien fin pour que ça n’influence pas le transfert de chaleur au bébé.</p>
         </div>
         <!--/col-md-4 -->
         <div class="col-md-6 centered">
@@ -192,7 +192,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-8 col-md-offset-2 centered">
-          <p>PRE-ORDER OUR BUNDLE</p>
+          <p>feel free to contact us for any further assistance</p>
         </div>
       </div>
       <!--/row -->
@@ -212,8 +212,7 @@
 
         <div class="col-md-4">
           <h1 data-effect="slide-right">3</h1>
-          <p>Lorem Ipsum is simply dummy text of the printing and 
-            typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+          <p>Le froid attaque chaque année les régions montagneuses . La température atteint des valeurs inférieures à 0°C en hiver          (jusqu’à -18°C). Une contrainte qui met en danger la population rurale des provinces exilées, rend leurs vies plus rudes, et leur fait souffrir dans les plus pires des cas des fréquents décès. Ceci pose un risque plus dangereux pour les bébés qui sont trois fois plus sensibles au froid que les adultes et qui ont généralement beaucoup de mal à réguler leur température de base qui se situe aux environs de 37°- 37°5. S’y adapter, leurs demandent beaucoup d’efforts et d’énergies .</p>
         </div>
         <!--/col-md-4 -->
 
@@ -242,9 +241,8 @@
   <script src="js/main.js"></script>
 </body>
 </html>
-BabySafety
-nGPk@MnLGZOS)Tea#bV@
-<img src="images/logo111.png" width="200px" height="200px" >
+
+<img src="images/logo111.png" width="200px" height="200px" alt="Logo">
 
 
 
